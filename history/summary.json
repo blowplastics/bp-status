@@ -4,17 +4,17 @@
     "url": "https://www.blowplastics.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.blowplastics.com.ico",
     "slug": "blow-plastics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3612,
-    "timeDay": 3868,
-    "timeWeek": 3684,
-    "timeMonth": 3612,
-    "timeYear": 3612,
+    "time": 4499,
+    "timeDay": 11725,
+    "timeWeek": 5672,
+    "timeMonth": 4499,
+    "timeYear": 4499,
     "dailyMinutesDown": {}
   }
 ]
